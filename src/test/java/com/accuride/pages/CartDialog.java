@@ -33,6 +33,7 @@ public class CartDialog {
 	
 	public boolean verifyTheCartDialog() throws InterruptedException
 	{
+		Thread.sleep(3000);
 		cartIcon.click();
 		Thread.sleep(3000);
 		if(cartpopup.isDisplayed())
