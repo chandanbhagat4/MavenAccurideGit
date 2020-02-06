@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="136989" started-at="2020-02-06T07:50:50Z" finished-at="2020-02-06T07:53:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="136989" started-at="2020-02-06T07:50:50Z" finished-at="2020-02-06T07:53:07Z">
+      <class name="com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn">
+        <test-method status="PASS" signature="browserLaunch()[pri:0, instance:com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn@11d970]" name="browserLaunch" is-config="true" duration-ms="8685" started-at="2020-02-06T13:20:50Z" finished-at="2020-02-06T13:20:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method status="PASS" signature="checkHomePageTitle()[pri:1, instance:com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn@11d970]" name="checkHomePageTitle" duration-ms="114" started-at="2020-02-06T13:20:59Z" finished-at="2020-02-06T13:20:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkHomePageTitle -->
+        <test-method status="PASS" signature="searchProductOnTheSearchbox()[pri:2, instance:com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn@11d970]" name="searchProductOnTheSearchbox" duration-ms="20445" started-at="2020-02-06T13:20:59Z" finished-at="2020-02-06T13:21:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductOnTheSearchbox -->
+        <test-method status="PASS" signature="intialProductQuantity()[pri:3, instance:com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn@11d970]" name="intialProductQuantity" duration-ms="2072" started-at="2020-02-06T13:21:19Z" finished-at="2020-02-06T13:21:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialProductQuantity -->
+        <test-method status="PASS" signature="increasingTheProductCountViaDirectField()[pri:5, instance:com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn@11d970]" name="increasingTheProductCountViaDirectField" duration-ms="2254" started-at="2020-02-06T13:21:21Z" finished-at="2020-02-06T13:21:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- increasingTheProductCountViaDirectField -->
+        <test-method status="PASS" signature="productAddToCart()[pri:6, instance:com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn@11d970]" name="productAddToCart" duration-ms="3130" started-at="2020-02-06T13:21:24Z" finished-at="2020-02-06T13:21:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productAddToCart -->
+        <test-method status="PASS" signature="verifyTheCardDialogBox()[pri:7, instance:com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn@11d970]" name="verifyTheCardDialogBox" duration-ms="16565" started-at="2020-02-06T13:21:27Z" finished-at="2020-02-06T13:21:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheCardDialogBox -->
+        <test-method status="PASS" signature="verifyTheProductOnShoppingPage()[pri:8, instance:com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn@11d970]" name="verifyTheProductOnShoppingPage" duration-ms="5240" started-at="2020-02-06T13:21:43Z" finished-at="2020-02-06T13:21:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheProductOnShoppingPage -->
+        <test-method status="PASS" signature="verifyTheProceedToCartButton()[pri:9, instance:com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn@11d970]" name="verifyTheProceedToCartButton" duration-ms="19550" started-at="2020-02-06T13:21:49Z" finished-at="2020-02-06T13:22:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTheProceedToCartButton -->
+        <test-method status="PASS" signature="checkShippingPageTitle()[pri:10, instance:com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn@11d970]" name="checkShippingPageTitle" duration-ms="8157" started-at="2020-02-06T13:22:08Z" finished-at="2020-02-06T13:22:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkShippingPageTitle -->
+        <test-method status="PASS" signature="checkingUserIsNotLoggedIn()[pri:11, instance:com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn@11d970]" name="checkingUserIsNotLoggedIn" duration-ms="115" started-at="2020-02-06T13:22:16Z" finished-at="2020-02-06T13:22:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkingUserIsNotLoggedIn -->
+        <test-method status="PASS" signature="validUserLogin()[pri:12, instance:com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn@11d970]" name="validUserLogin" duration-ms="41795" started-at="2020-02-06T13:22:16Z" finished-at="2020-02-06T13:22:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserLogin -->
+        <test-method status="PASS" signature="goingToThePayementPage()[pri:13, instance:com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn@11d970]" name="goingToThePayementPage" duration-ms="6361" started-at="2020-02-06T13:22:58Z" finished-at="2020-02-06T13:23:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goingToThePayementPage -->
+        <test-method status="PASS" signature="browserClose()[pri:0, instance:com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn@11d970]" name="browserClose" is-config="true" duration-ms="2494" started-at="2020-02-06T13:23:05Z" finished-at="2020-02-06T13:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserClose -->
+      </class> <!-- com.mavenAccuride.test.BuyProductIfUserIsNotLoggedIn -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

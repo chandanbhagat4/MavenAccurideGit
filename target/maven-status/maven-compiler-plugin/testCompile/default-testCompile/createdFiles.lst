@@ -1,0 +1,12 @@
+com\accuride\pages\ShoppingAddressPage.class
+com\accuride\pages\SearchField.class
+com\mavenAccuride\test\BuyProductIfUserIsNotLoggedIn.class
+com\accuride\pages\CartDialog.class
+com\accuride\pages\HomePage.class
+com\accuride\pages\LogIn.class
+com\accuride\utility\BrowserFactory.class
+com\accuride\pages\ProductDeatilsPage.class
+com\mavenAccuride\test\BuyProductIfUserIsLoggedIn.class
+com\accuride\pages\ShoppingCartPage.class
+com\accuride\pages\PaymentPage.class
+com\mavenAccuride\test\BuyProductFromGuestUser.class
