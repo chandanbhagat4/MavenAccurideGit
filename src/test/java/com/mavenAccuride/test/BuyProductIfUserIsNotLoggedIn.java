@@ -120,7 +120,7 @@ WebDriver driver;
 		login.signInToTheUser();
 	}
 	
-	@Test(priority=13,enabled=true)
+	@Test(priority=13,enabled=false)
 	public void goingToThePayementPage() throws InterruptedException
 	{
 		ShoppingAddressPage goToPaymentPage = PageFactory.initElements(driver, ShoppingAddressPage.class);
